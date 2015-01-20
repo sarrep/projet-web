@@ -101,7 +101,39 @@ textarea
 	resize: none;
 	width : 50%;
 }
-@media (max-width:320px) 
-{ 
-	
+@media (min-width:321px) and (max-width:640px){
+    h1
+	{
+		font-size : 24px;
+	}
+	nav li
+	{
+		padding : 0px;
+		font-size : 14px;
+	}
+	.text, form
+	{
+		position : absolute;
+		top : 126px;
+		left : 1px;
+	}
+	#sample
+	{
+		position : absolute;
+		top : 126px;
+	}
+	#sample2
+	{
+		position : absolute;
+		top : 326px;
+	}
+	#sample3
+	{
+		position : absolute;
+		top : 356px;
+	}
+	img 
+	{
+        max-width : 200px;
+	}
 }
