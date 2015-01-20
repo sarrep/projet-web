@@ -80,7 +80,6 @@ p
 }
 table
 {
-	border-collapse:separated;
 	margin-left:auto; 
     margin-right:auto;
 }
@@ -101,4 +100,8 @@ textarea
 {
 	resize: none;
 	width : 50%;
+}
+@media (max-width:320px) 
+{ 
+	
 }
