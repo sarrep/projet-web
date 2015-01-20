@@ -1,7 +1,0 @@
-@font-face{font-family:MyNiftyFont;src: url('http://example.org/nifty-font.ttf'),
-       url('http://example.org/nifty-font.eot');}
-h1{font-size: 18;text-align: center;color: blue; text-decoration: underline}
-nav li{display:inline-block;border-top:0.5mm solid;border-right:0.5mm solid;border-left:0.5mm solid;border-radius:0.4em;padding: 0.5mm;font-weight:bold;font-size:14;
-font-variant:small-caps;color:white}
-body{background:url("SuperHeroesBanner.png");opacity:5}
-p{font-weight:bold;font-size:14;color:white}
